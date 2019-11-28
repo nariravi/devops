@@ -1,1 +1,10 @@
-naresh is good and it has to see new movie 
+class HelloWorld 
+ {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
+
+
+
